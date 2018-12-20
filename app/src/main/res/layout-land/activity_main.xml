@@ -12,6 +12,7 @@
         android:background="@color/arka_plan"
         android:orientation="horizontal"
         tools:ignore="MissingConstraints"
+        android:id="@+id/linearL"
         tools:layout_editor_absoluteX="0dp"
         tools:layout_editor_absoluteY="0dp">
 
